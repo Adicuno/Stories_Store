@@ -1,0 +1,3 @@
+/* If you want component-level CSS for story card */
+.story-card-title { font-size: 1.05rem; margin: 0 0 8px 0; }
+.story-card-desc { color: var(--muted); font-size: 0.9rem; }
