@@ -29,11 +29,13 @@ const Login = () => {
       footer={
         <>
           Don't have an account?{" "}
+
+          
           <Link
             className="text-purple-600 font-semibold hover:underline"
             to="/register"
           >
-            Register
+            Signup
           </Link>
         </>
       }
